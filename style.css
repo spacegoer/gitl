@@ -706,6 +706,8 @@ big {
 /*--------------------------------------------------------------
 # Elements
 --------------------------------------------------------------*/
+
+
 html {
   box-sizing: border-box;
 }
@@ -5888,7 +5890,7 @@ div.tp-bullet.selected, div.tp-bullet:hover {
 @media (max-width: 1200px) {
   .tparrows.nav-home-1 {
     transform: none !important;
-    top: auto!important;
+    /* top: auto!important; */
     bottom: 46px!important;
   }
   .tp-leftarrow.nav-home-1 {
@@ -14425,7 +14427,7 @@ section {
 }
 @media (max-width: 767px) {
   section {
-      padding-top: 60px;
+ 
       padding-bottom: 60px;
   }
   .space-sm-top {
