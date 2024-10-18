@@ -6527,7 +6527,14 @@ div.tp-bullet.selected, div.tp-bullet:hover {
     padding: 123px 0 123px 0;
 }
 .technology-v6 {
-    background-image: url(images/background/bg-cta1-home1.jpg);
+    background-image: url(images/Template/darkbg-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 123px 0 123px 0;
+}
+.technology-v7 {
+    background-image: url(images/Template/lightbg-1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
